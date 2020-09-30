@@ -1,0 +1,5 @@
+def calc():
+    radius=int(input("Enter: "))
+    area=radius**2
+    print(area)
+calc()
